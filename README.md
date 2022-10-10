@@ -1,4 +1,4 @@
-# Homework 1: Refactoring
+# Homework 1: Code Refactor
 
 ## Description
 
@@ -7,3 +7,11 @@ This exercise is to refactor the HTML and CSS of a website to make the code easi
 ## Sample Screenshot
 
 ![Website Screenshot](assets/images/hw-1%20sample%20screenshot.png)
+
+## Usage
+
+The website maintains all the previous functionality as it had prior to refactoring. The nav links should direct users to the appropriate section on the page.
+
+## Contact
+
+You can reach me at brandonkly@ucla.edu.
